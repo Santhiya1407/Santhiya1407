@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'm SANTHIYA KATHIRVEL 👋</h1>
-<h3 align="center">I’m pursuing B.Tech in Information Technology at M. Kumarasamy College of Engineering, Karur, Tamil Nadu (Final Year). I’m passionate about Machine Learning, Full Stack Development, and Cloud Computing. I enjoy building innovative projects that solve real-world problems. Key Skills: Programming: Java, Python, JavaScript,C,HTML,CSS Web Development: React, HTML, CSS, JavaScript Machine Learning & AI Cloud Platforms: Microsoft Azure Database: MySQL</h3>
+<h3 align="center">👩‍💻 About Me
+I’m pursuing B.Tech in Information Technology at M. Kumarasamy College of Engineering, Karur, Tamil Nadu (Final Year).
+I’m passionate about Machine Learning 🤖, Full Stack Development 🌐, and Cloud Computing ☁️.
+I enjoy building innovative projects 💡 that solve real-world problems 🌍.
+
+🛠️ Key Skills
+
+Programming: Java ☕, Python 🐍, JavaScript ✨, C 💻, HTML 📝, CSS 🎨
+
+Web Development: React ⚛️, HTML 📝, CSS 🎨, JavaScript ✨
+
+Machine Learning & AI 🤖
+
+Cloud Platforms: Microsoft Azure ☁️
+
+Database: MySQL 🗄️
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhiya1407&label=Profile%20views&color=0e75b6&style=flat" alt="santhiya1407" /> </p>
 
